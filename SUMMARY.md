@@ -13,9 +13,8 @@
   * [用户登录模块设计](module/login.md)
   * [用户管理模块设计](module/user_manage.md)
   * [报警功能模块设计](module/warning.md)
-  * [历史曲线模块设计](module/data_history.md)
-  * [用户交互模块设计](module/user_interface.md)
-  * [操作记录模块设计](module/operation_record.md)
-  * [数据回放模块设计](module/shu-ju-hui-fang-mo-kuai-she-ji.md)
-
+  * [数据管理模块设计](module/data_history.md)
+  * [数据终端管理模块设计](module/user_interface.md)
+  * [数据分类模块设计](module/operation_record.md)
+  * [任务管理模块设计](module/shu-ju-hui-fang-mo-kuai-she-ji.md)
 
