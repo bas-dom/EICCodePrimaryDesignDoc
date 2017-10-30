@@ -24,5 +24,5 @@
 
 ## 概要设计产品目标参考图
 
-![](/assets/数据任务管理.png)
+![](/introduction/assets/数据任务管理.png)
 
