@@ -18,4 +18,5 @@
   * [数据分类模块设计](module/operation_record.md)
   * [任务管理模块设计](module/shu-ju-hui-fang-mo-kuai-she-ji.md)
   * [项目管理模块设计](module/xiang-mu-guan-li-mo-kuai-she-ji.md)
+  * [诊断管理模块设计](module/zhen-duan-guan-li-mo-kuai-she-ji.md)
 
